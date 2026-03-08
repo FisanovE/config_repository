@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Bank cards related prod API`s"
+  contactDetails:
+    name: "James William - Product Owner"
+    email: "james@mail.com"
+  onCallSupport:
+    - (555)111-1234
+    - (555)111-4321
