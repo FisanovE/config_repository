@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Bank accounts related QA API`s"
   contactDetails:
     name: "Robert Johnson - QA Lead"
-    email: "roberts@mail.com"
+    email: "{cipher}c10cd5214604fd67855cf626a491dbedab96787026bd464a90858d87e520a228c6370c8bb245aa8fc197f780818ef650"
   onCallSupport:
     - (555)222-1234
     - (555)222-4321

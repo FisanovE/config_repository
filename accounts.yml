@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Bank accounts related local API`s"
   contactDetails:
     name: "John Smith - Developer"
-    email: "johns@mail.com"
+    email: "{cipher}b862750f5254ae4519fe1dbe884b0ff6500924a3755caaa1932821df83e3b30d"
   onCallSupport:
     - (555)333-1234
     - (555)333-4321

@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Bank accounts related prod API`s"
   contactDetails:
     name: "James William - Product Owner"
-    email: "james@mail.com"
+    email: "{cipher}554b655008da5676ba2ac43b24f7e5d033bf3ac2d04cd953596af584cb1895e1"
   onCallSupport:
     - (555)111-1234
     - (555)111-4321
