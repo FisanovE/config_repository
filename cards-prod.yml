@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Bank cards related production API`s"
+  message: "Welcome to Bank cards related prod API`s"
   contactDetails:
     name: "James William - Product Owner"
     email: "james@mail.com"
